@@ -13,7 +13,7 @@ name                     : &name "Fernando Salazar-Monroy"
 
 description              : &description "docsurmi's web page"
 
-url                      : https://edifesamo14.github.io/dr.surimi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://edifesamo14.github.io/dr.surimi # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
