@@ -2,7 +2,7 @@
 title: "Strong Ground Motion Seismology, Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: ""
+permalink: /teaching/1011_strong_ground_motion
 venue: "UNAM, Faculty of Engineering, Department of Earth Sciences"
 date: 2019-09-01
 location: "Mexico City, Mexico"
