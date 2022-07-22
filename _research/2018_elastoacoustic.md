@@ -15,6 +15,6 @@ Seismic wave propagation in coupled media is a challenging problem, commonly add
 
 <p>   </p>
 <center>
-<img src="./images/WORK_CARTOON.png" alt="   " style="height: 100px; width:100px;"/>
+<img src="./images/WORK_CARTOON.png" alt="Elastoacoustic coupling problem diagram The red triangles represent tsunami amplitude receptors, and the red and blue arrows denote forward simulation and the SGT approach. The black dashed line represents the coupling zone and rupture length." style="height: 100px; width:100px;"/>
 </center>
 <p>   </p>
