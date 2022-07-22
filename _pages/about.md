@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently working at UNAM-IINGEN (./http://www.uis.unam.mx/) on developing decision algorithms for seismic and tsunami hazards. My research aims to estimate the hazard of earthquakes and tsunamis on active subduction zones, using mainly geophysical observations (mareograms, tsunami amplitude profiles, peak ground motion acceleration measurements, and seismograms) and physical models (slab geometry, slip-fault distribution, and coupling). 
+I am currently working at UNAM-IINGEN-[Seismic Instrumentation Unit](./http://www.uis.unam.mx/) on developing decision algorithms for seismic and tsunami hazards. My research aims to estimate the hazard of earthquakes and tsunamis on active subduction zones, using mainly geophysical observations (mareograms, tsunami amplitude profiles, peak ground motion acceleration measurements, and seismograms) and physical models (slab geometry, slip-fault distribution, and coupling). 
 
 
 ## [Research](research)
