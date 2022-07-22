@@ -12,7 +12,7 @@ Subduction zones are prone to large earthquakes that impact populated coastal an
 <p>   </p>
 <center>
 <video width="320" height="240" controls="controls">
-  <source src="./imgages/Disp_Amp.mp4" type="video/mp4">
+  <source src="./imgages/DISPLACEMENT_PT_00.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </center>
