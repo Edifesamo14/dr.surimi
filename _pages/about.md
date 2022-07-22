@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <center>"Hello and welcome to my web site!!"</center>
+title: <center>Hello and welcome to my web site!!</center>
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-Assistant professor of economics at the University of California, Santa Cruz.
-My work is in microeconomics, behavioral economics and experimental economics.
+I am currently working at UNAM-IINGEN (./http://www.uis.unam.mx/) on developing decision algorithms for seismic and tsunami hazards. My research aims to estimate the hazard of earthquakes and tsunamis on active subduction zones, using mainly geophysical observations (mareograms, tsunami amplitude profiles, peak ground motion acceleration measurements, and seismograms) and physical models (slab geometry, slip-fault distribution, and coupling). 
 
 
 ## [Research](research)
