@@ -10,11 +10,11 @@ citation: In progress.
 ---
 
 
-Seismic wave propagation in coupled media is a challenging problem, commonly addressed by solving partial differential equations through numerical methods. We proposed a method for simulating wave propagation in elasto-acoustic medium using the finite element and finite differences methods and a strong coupling strategy, allowing a joint simulation of seismic sources and tsunami generation. This strategy seems to be promising in elastodynamic problems and far-field tsunami simulations due to the fastest calculations of physical features (i.e., displacement and time arrivals).
+Seismic wave propagation in coupled media is a challenging problem, commonly addressed by solving partial differential equations through numerical methods. We proposed a method for simulating wave propagation in an elasto-acoustic medium using the finite element and finite differences methods with a strong coupling strategy, allowing a joint simulation of seismic sources and tsunami generation. This strategy seems to be promising in far-field tsunami simulations due to the fastest calculations of physical features (i.e., displacement, time arrivals, and amplitudes).
 
 
 <p>   </p>
 <center>
-<img src="./images/WORK_CARTOON.png" alt="Schematic illustration of the problem showing the elasto-acoustic coupling and surface interaction. Red triangles are the surface receptors. Red and blue arrows show the two approaches). It shows the connectors between both media and rupture length (black dashed line)." style="height: 100px; width:100px;"/>
+<img src="./images/WORK_CARTOON.png" alt="   " style="height: 100px; width:100px;"/>
 </center>
 <p>   </p>
