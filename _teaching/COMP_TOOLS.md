@@ -1,0 +1,11 @@
+---
+title: 'Computational tools for mathematicians'
+collection: teaching
+type: 'Undergraduate course'
+permalink: ''
+venue: 'UNAM, Faculty of Sciencies, Department of Mathematics'
+date: 2020-09-01
+location: 'Mexico City, Mexico'
+---
+> This course introduces some important computing tools for studying, writing, and doing applied mathematics. First, the students are introduced to the labor of writing, making presentations, and creating graphic educational pieces using LaTeX. Second, the students will be practicing weekly with projects and exercises related to database process and analysis, data science, and math modeling, all of them in Python. They will have to document the problem-solving, the process applied, as well as conclusions.
+
