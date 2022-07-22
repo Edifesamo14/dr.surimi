@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kristian López Vargas"
+title: <center>"Hello and welcome to my web site!!"</center>
 excerpt: "About me"
 author_profile: true
 redirect_from: 
