@@ -1,14 +1,14 @@
-<!-- --- -->
-<!-- title: "Teaching experience 2" -->
-<!-- collection: teaching -->
-<!-- type: "Workshop" -->
-<!-- permalink: /teaching/2015-spring-teaching-1 -->
-<!-- venue: "University 1, Department" -->
-<!-- date: 2015-01-01 -->
-<!-- location: "City, Country" -->
-<!-- --- -->
+---
+title: "Advance Economics at UCSC"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2017-fall-teaching-1
+venue: "UCSC, Department of Economics"
+date: 2017-09-01
+location: "Santa Cruz, CA"
+---
 
-<!-- This is a description of a teaching experience. You can use markdown like any other post. -->
+[Check my awesome notes here https://kmlv.github.io/Econ100A_F17/](https://kmlv.github.io/Econ100A_F17/)
 
 <!-- Heading 1 -->
 <!-- ====== -->
