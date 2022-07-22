@@ -2,7 +2,7 @@
 title: "Dynamic Actions, Teaching Assistant"
 collection: teaching
 type: "Graduate course"
-permalink: ""
+permalink: /teaching/102_dyn_acts
 venue: "UNAM, Engineering Graduate Program, Department of Civil Engineering"
 date: 2022-02-01
 location: "Mexico City, Mexico"
