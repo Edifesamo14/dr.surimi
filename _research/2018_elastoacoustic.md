@@ -15,6 +15,6 @@ Seismic wave propagation in coupled media is a challenging problem, commonly add
 
 <p>   </p>
 <center>
-<img src="/images/WORK_CARTOON.png" alt="Schematic illustration of the problem showing the elasto-acoustic coupling and surface interaction. Red triangles are the surface receptors. Red and blue arrows show the two approaches). It shows the connectors between both media and rupture length (black dashed line)." style="height: 100px; width:100px;"/>
+<img src="./images/WORK_CARTOON.png" alt="Schematic illustration of the problem showing the elasto-acoustic coupling and surface interaction. Red triangles are the surface receptors. Red and blue arrows show the two approaches). It shows the connectors between both media and rupture length (black dashed line)." style="height: 100px; width:100px;"/>
 </center>
 <p>   </p>
