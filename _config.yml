@@ -17,7 +17,7 @@ url                      : https://edifesamo14.github.io/dr.surimi.github.io # t
 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
-repository               : "https://edifesamo14.github.io/dr.surimi.github.io/"
+repository               : "https://edifesamo14.github.io/dr.surimi/"
 
 teaser                   : 3953273590_704e3899d5_m.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
