@@ -1,14 +1,14 @@
 ---
-title: "Advance Economics at UCSC"
+title: 'Intro to Geodynamics'
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2017-fall-teaching-1
-venue: "UCSC, Department of Economics"
-date: 2017-09-01
-location: "Santa Cruz, CA"
+type: 'Undergraduate course'
+permalink: ''
+venue: 'UNAM, Faculty of Sciences, Department of Physics'
+date: 2018-02-01
+location: 'Mexico City, Mexico'
 ---
 
-[Check my awesome notes here https://kmlv.github.io/Econ100A_F17/](https://kmlv.github.io/Econ100A_F17/)
+> This course is devoted to the study of the Earth's interior, its genesis, and evolution through geological time. We are focused on understanding how and why the Earth's physical systems interact with one another, and how this can be studied from geological evidence and geophysical methods.
 
 <!-- Heading 1 -->
 <!-- ====== -->
