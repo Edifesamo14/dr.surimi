@@ -53,10 +53,10 @@ Honors, Awards
 ======
 
 * 2016
-   * Scholarship for doctoral studies: Universidad Nacional Autónoma de México, Mexico City, Mexico.
+   * Scholarship for doctoral studies: Consejo Nacional de Ciencia y Tecnología (CONACYT). Universidad Nacional Autónoma de México, Mexico City, Mexico.
 
 * 2013
-   * Scholarship for graduate studies: Universidad Nacional Autónoma de México, Mexico City, Mexico.
+   * Scholarship for graduate studies: Consejo Nacional de Ciencia y Tecnología (CONACYT). Universidad Nacional Autónoma de México, Mexico City, Mexico.
    
 * 2011
    * Scholarship for undergraduate studies: Universidad Pedagógica Nacional, Bogotá, Colombia.
@@ -69,6 +69,10 @@ Talks, Conferences, and Workshops
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Research stays
+======
+  * University of Oregon, Supervisor: Prof. [Diego Melgar](https://earthsciences.uoregon.edu/profile/dmelgarm/).
 
 Academic Referee Work
 ======
