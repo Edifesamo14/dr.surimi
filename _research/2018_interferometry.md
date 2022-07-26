@@ -1,8 +1,8 @@
 ---
 title: "Seismic Noise Tomography"
-collection: research
-permalink: 'research/2018_interferometry'
+permalink: '_research/2018_interferometry'
 excerpt: ''
+collection: research
 date: 2016-02-01
 venue: ''
 paperurl: 'http://132.248.9.195/ptd2016/enero/0740058/Index.html'
