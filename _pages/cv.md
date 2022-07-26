@@ -40,6 +40,8 @@ Research / Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+If you want to see more of my research, please visit my [google scholar profile] (https://scholar.google.com/citations?user=uiSgFfEAAAAJ&hl=es)
+
 Work experience
 ======
 
