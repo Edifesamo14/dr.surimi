@@ -4,17 +4,10 @@ collection: research
 permalink: /research/2018_elastoacoustic
 excerpt: ''
 date: 2018-01-01
-venue: ''
-paperurl: ''
-citation: In progress.
+venue: 'American Geophysical Union'
+paperurl: 'https://scholar.google.com/scholar?cluster=1785017556575280290&hl=en&oi=scholarr'
+citation: Monroy, E. F. S., Ramirez-Guzman, L., Bielak, J., & Sanchez-Sesma, F. J. (2017, December). Deep water tsunami simulation at global scale using an elastoacoustic approach. In 2017 AGU Fall Meeting. AGU.
 ---
 
 
 Seismic wave propagation in coupled media is a challenging problem, commonly addressed by solving partial differential equations through numerical methods. We proposed a method for simulating wave propagation in an elasto-acoustic medium using the finite element and finite differences methods with a strong coupling strategy, allowing a joint simulation of seismic sources and tsunami generation. This strategy seems to be promising in far-field tsunami simulations due to the fastest calculations of physical features (i.e., displacement, time arrivals, and amplitudes).
-
-
-<p>   </p>
-<center>
-<img src="./images/WORK_CARTOON.png" alt="Elastoacoustic coupling problem diagram The red triangles represent tsunami amplitude receptors, and the red and blue arrows denote forward simulation and the SGT approach. The black dashed line represents the coupling zone and rupture length." style="height: 100px; width:100px;"/>
-</center>
-<p>   </p>
