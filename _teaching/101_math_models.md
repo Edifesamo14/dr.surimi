@@ -1,9 +1,9 @@
 ---
-title: "Intro to Math Modeling"
+title: "Intro to Math Modeling, Lecturer"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/101_math_models
-venue: "UNAM, Faculty of Sciencies, Department of Mathematics"
+venue: "UNAM, Faculty of Sciences, Department of Mathematics"
 date: 2021-02-01
 location: "Mexico City, Mexico"
 ---
