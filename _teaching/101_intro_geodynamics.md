@@ -1,5 +1,5 @@
 ---
-title: "Intro to Geodynamics"
+title: "Intro to Geodynamics, Lecturer"
 collection: teaching
 type: "Undergraduate course"
 permalink: "/teaching/2015-spring-teaching-2"
