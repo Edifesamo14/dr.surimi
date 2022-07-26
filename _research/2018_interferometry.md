@@ -1,11 +1,11 @@
 ---
-title: "Benchmarks for uncertainty delimitation on tsunamigenic earthquakes source parameters"
+title: "Seismic Noise Tomography"
 collection: research
-permalink: /research/2022_Uncertainty
+permalink: /research/2018_interferometry
 excerpt: ''
-date: 2022-01-20
+date: 2016-01-28
 venue: ''
-paperurl: ''
-citation: 'In progress' 
+paperurl: 'http://132.248.9.195/ptd2016/enero/0740058/Index.html'
+citation: 'Salazar-Monroy, E.F. and Husker, A. (2016). Spatio-temporal analysis of seismic wave propagation velocity in Guerrero, Mexico'. <i>Master dissertation</i>. Universidad Nacional Autónoma de México, Earth Sciences graduate program.' 
 ---
-Subduction zones are prone to large earthquakes that impact populated coastal and inland cities due to strong shaking and can generate potentially disastrous tsunamis. Even though the population and infrastructure in these zones may experience tsunamis, only sparse instrumentation and scarce tsunami observations exist for both historical and instrumental records, especially above Mw8.0 magnitudes. Using ensembles of numerical tsunami simulations, it is possible to estimate the probability of exceedance of tsunami intensity metrics, considering the contribution of critical parameters. The figure shown below presents the results of a probabilistic tsunami hazard analysis, carried out with 7,946 scenarios. The amplitudes can reach up to 9.5 m along the shoreline, revealing critical hazard points along the coasts of the states of Jalisco, Colima, Michoacán, Guerrero, and Oaxaca (see Salazar-Monroy et al., 2021).
+Seismological observations allow us to analyze the internal crust structure at different depth scales through wave-field dispersion and properties. We employ dense seismic databases deployed in Guerrero state that contain active and passive sources. We carried out a massive Greens Function correlation (C3 method) due to the ray density. Obtaining shear and group velocity tomograms and relative changes in seismic velocity close to critical zones of slow slip phenomena. 
