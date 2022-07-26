@@ -50,6 +50,12 @@ Work experience
 Honors, Awards
 ======
 
+* 2016
+   * Scholarship for doctoral studies: Universidad Nacional Autónoma de México, Mexico City, Mexico.
+
+* 2013
+   * Scholarship for graduate studies: Universidad Nacional Autónoma de México, Mexico City, Mexico.
+   
 * 2011
    * Scholarship for undergraduate studies: Universidad Pedagógica Nacional, Bogotá, Colombia.
 
