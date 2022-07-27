@@ -40,7 +40,7 @@ Research / Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-If you want to see more of my research, please visit my [google scholar profile] (https://scholar.google.com/citations?user=uiSgFfEAAAAJ&hl=es)
+If you want to see more of my research, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=uiSgFfEAAAAJ&hl=es).
 
 Work experience
 ======
@@ -72,7 +72,7 @@ Talks, Conferences, and Workshops
 
 Research stays
 ======
-  * University of Oregon, Supervisor: Prof. [Diego Melgar](https://earthsciences.uoregon.edu/profile/dmelgarm/).
+  * University of Oregon, Supervisor: Prof. [Diego Melgar](https://earthsciences.uoregon.edu/profile/dmelgarm/) from July to December of 2018.
 
 Academic Referee Work
 ======
