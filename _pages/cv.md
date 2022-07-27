@@ -45,8 +45,9 @@ If you want to see more of my research, please visit my [Google Scholar Profile]
 Work experience
 ======
 
-* September 2020-present: Temporal Professor, Department of Mathematics, Science Faculty
-   * Universidad Nacional Autónoma de México, Mexico City 
+* July 2015 - January 2016: Seismology Staff, Servicio Sismológico Nacional, Universidad Nacional Autónoma de México, Mexico City 
+* August 2021 - February 2022: Research Assistance, Seismic Instrumentation Unit, Institute of Engineering, Universidad Nacional Autónoma de México, Mexico City 
+* September 2020-present: Lecturer, Department of Mathematics, Science Faculty, Universidad Nacional Autónoma de México, Mexico City 
 
 
 Honors, Awards
